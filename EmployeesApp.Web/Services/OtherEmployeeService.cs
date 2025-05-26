@@ -1,4 +1,6 @@
-﻿using EmployeesApp.Web.Models;
+﻿using EmployeesApp.Application.Employees;
+using EmployeesApp.Domain;
+using EmployeesApp.Web.Models;
 
 namespace EmployeesApp.Web.Services
 {
